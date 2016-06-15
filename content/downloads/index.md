@@ -20,10 +20,12 @@ So I am showing you all the options.
 
 <p id='others'>
 Show downloads for 
-<span class="show_links" id='os_linux'>GNU/Linux</span>&nbsp;| 
-<span class="show_links" id='os_mac'>OS&nbsp;X</span>&nbsp;| 
-<span class="show_links" id='os_win'>Microsoft&nbsp;Windows</span>&nbsp;| 
-<span class="show_links" id='os_all'>All</span>
+http://www.gimp.org/downloads/
+
+<span class="show_links" id='os_linux'><a href="#gimp-for-unix-like-systems">GNU/Linux</a></span>&nbsp;| 
+<span class="show_links" id='os_mac'><a href="#gimp-for-mac-os-x">OS&nbsp;X</a></span>&nbsp;| 
+<span class="show_links" id='os_win'><a href="#gimp-for-windows">Microsoft&nbsp;Windows</a></span>&nbsp;| 
+<span class="show_links" id='os_all'><a href="#gimp-for-unix-like-systems">All</a></span>
 </p>
 
 </div>
